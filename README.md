@@ -8,11 +8,11 @@
 
 ## Screenshots
 <div>
-<img src="Screenshots/Home.jpg" width="30%" />
-<img src="Screenshots/match_detail_info.jpg" width="30%" />
-<img src="Screenshots/match_detail_live.jpg" width="30%" />
-<img src="Screenshots/match_detail_squad.jpg" width="30%" />
-<img src="Screenshots/Recent.jpg" width="30%" />
+<img src="Screenshots/1.jpg" width="30%" />
+<img src="Screenshots/2.jpg" width="30%" />
+<img src="Screenshots/3.jpg" width="30%" />
+<img src="Screenshots/4.jpg" width="30%" />
+<img src="Screenshots/5.jpg" width="30%" />
 </div>
 <br>
 
@@ -35,4 +35,7 @@ I need help to
 2. Change the app logo as it is copied for an online poster.
 3. Update overall appearance of this app.
 
-Please feel free to DM me at [Telegram](https://t.me/arijit_paul)
+
+> __Note__ : The app is not complete yet. Some screens (Overs, Scorecard, Graphs) are not availabel yet. But the screens shown in the screenshots work fine. I've found some scpapers for cricbuzz running on `Heroku`. But those would be slow for greater number of audinece. So, I am thinking of working with a real API or scraping sites locally with `JSoup`. I've not found any convinient API or Local Scraper to fetch live scores with. I'm fetching live data from [NDTV](https://sports.ndtv.com/cricket) api and scraping some data from [NDTV](https://sports.ndtv.com/cricket). But as it seems, it's not enough to work fluently. The commentry data is not so good. Getting player images is complecated (would need to parse full html with different api-call and get the image urls).
+
+Please feel free to DM me at [Telegram](https://t.me/arijit_paul) for anykind of help anytime.
