@@ -6,6 +6,9 @@
 	Live Cricket scores, Ad-free
 </p>
 
+> ['Help making the app better.'](#help_section)
+
+
 ## Screenshots
 <div>
 <img src="Screenshots/1.jpg" width="30%" />
@@ -25,9 +28,7 @@
 
 - MAD: UI and logic written with pure Kotlin. Single activity, no fragments, only composable destinations.
 
-##
-
-## Help need :sweat:
+## Help need :sweat: <a name="help_section"/>
 
 I'm a develper by passion. I'm not so good at UI/UX and graphic designing.
 I need help to
