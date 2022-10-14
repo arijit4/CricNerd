@@ -1,0 +1,1 @@
+flag -> https://sdata.ndtv.com/sportz/Sportz/cricket/flags/{team_id}.png
