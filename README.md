@@ -7,8 +7,14 @@
 </p>
 
 ## Screenshots
-
-
+<div>
+<img src="Screenshots/Home.jpg" width="30%" />
+<img src="Screenshots/match_detail_info.jpg" width="30%" />
+<img src="Screenshots/match_detail_live.jpg" width="30%" />
+<img src="Screenshots/match_detail_squad.jpg" width="30%" />
+<img src="Screenshots/Recent.jpg" width="30%" />
+</div>
+<br>
 
 ## Features
 - Almost live scores (as fast as [ndtv](https://sports.ndtv.com/cricket))
