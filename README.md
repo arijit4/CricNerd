@@ -1,7 +1,7 @@
 <div align="center">
     <img src="app/src/main/res/drawable/high_res_logo_2_512x512.png" width=160 height=160/>
 </div>
-<h1 align="center">Seal</h1>
+<h1 align="center">CricNerd</h1>
 <p align="center">
 	Live Cricket scores, Ad-free
 </p>
