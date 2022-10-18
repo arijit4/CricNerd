@@ -6,8 +6,14 @@
 	Live Cricket scores, Ad-free
 </p>
 
-> ['Help making the app better.'](#help_section)
+## About this project
+This project is made to be an ad-free version of `CricBuzz.com` with `Material UI` to help the `CricNerd`s to enjoy the actual game, not the ads (because, who does?)
 
+I also aim to add funcionalities which are not present in the `CricBuzz` itself (as `Picuture-In-Picture` mode).
+
+So, stay tuned!!
+
+> ['Help making the app better.'](#help_section)
 
 ## Screenshots
 <div>
