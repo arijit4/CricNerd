@@ -45,4 +45,4 @@ I need help to
 
 > __Note__ : The app is not complete yet. Some screens (Overs, Scorecard, Graphs) are not availabel yet. But the screens shown in the screenshots work fine. I've found some scpapers for cricbuzz running on `Heroku`. But those would be slow for greater number of audinece. So, I am thinking of working with a real API or scraping sites locally with `JSoup`. I've not found any convinient API or Local Scraper to fetch live scores with. I'm fetching live data from [NDTV](https://sports.ndtv.com/cricket) api and scraping some data from [NDTV](https://sports.ndtv.com/cricket). But as it seems, it's not enough to work fluently. The commentry data is not so good. Getting player images is complecated (would need to parse full html with different api-call and get the image urls).
 
-Please feel free to DM me at [Telegram](https://t.me/arijit_paul) for anykind of help anytime.
+Please feel free to DM me at [Telegram](https://t.me/arijit_paul).
